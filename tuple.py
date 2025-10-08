@@ -1,0 +1,5 @@
+tuple=(11,22,11,33,44,55)
+count=tuple.count(11)
+print(count)
+index_value=tuple.index(33)
+print("Index of 33:",index_value)
