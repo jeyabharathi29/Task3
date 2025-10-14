@@ -50,7 +50,7 @@ elif percentage<=80:
 
 
 #task4
-clas=int(input("No of classes Held:"))
+cls=int(input("No of classes Held:"))
 attend=int(input("No of classes attend:"))
 print(cls)
 print(attend)
